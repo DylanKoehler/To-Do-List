@@ -40,7 +40,6 @@
 		3F502260278DEC1F00521112 = {
 			isa = PBXGroup;
 			children = (
-				3F50227B278F3C8400521112 /* ToDoList.swift */,
 				3F50226B278DEC2000521112 /* To Do List */,
 				3F50226A278DEC2000521112 /* Products */,
 			);
@@ -59,6 +58,7 @@
 			children = (
 				3F50226C278DEC2000521112 /* To_Do_ListApp.swift */,
 				3F50226E278DEC2000521112 /* ContentView.swift */,
+				3F50227B278F3C8400521112 /* ToDoList.swift */,
 				3F50227D278F3E8300521112 /* AddItemView.swift */,
 				3F502270278DEC2800521112 /* Assets.xcassets */,
 				3F502275278DEC2800521112 /* Info.plist */,
