@@ -12,6 +12,7 @@
 		3F502271278DEC2800521112 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F502270278DEC2800521112 /* Assets.xcassets */; };
 		3F502274278DEC2800521112 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F502273278DEC2800521112 /* Preview Assets.xcassets */; };
 		3F50227C278F3C8400521112 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F50227B278F3C8400521112 /* ToDoList.swift */; };
+		3F50227E278F3E8300521112 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F50227D278F3E8300521112 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F502273278DEC2800521112 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F502275278DEC2800521112 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F50227B278F3C8400521112 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		3F50227D278F3E8300521112 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				3F50226C278DEC2000521112 /* To_Do_ListApp.swift */,
 				3F50226E278DEC2000521112 /* ContentView.swift */,
+				3F50227D278F3E8300521112 /* AddItemView.swift */,
 				3F502270278DEC2800521112 /* Assets.xcassets */,
 				3F502275278DEC2800521112 /* Info.plist */,
 				3F502272278DEC2800521112 /* Preview Content */,
@@ -144,6 +147,7 @@
 				3F50226F278DEC2000521112 /* ContentView.swift in Sources */,
 				3F50227C278F3C8400521112 /* ToDoList.swift in Sources */,
 				3F50226D278DEC2000521112 /* To_Do_ListApp.swift in Sources */,
+				3F50227E278F3E8300521112 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
